@@ -12,7 +12,7 @@ public class exerciciosdh {
 		//exercicio6();
 		//exercicio7();
 		//exercicio8();
-		exercicio9();
+		//exercicio9();
 
 	}
 
